@@ -1,6 +1,8 @@
 3D Shirt Customizer
 ===================
 
+[Live Website](https://utkarsh-3d-shirt-customizer.netlify.app/)
+
 3D Shirt Customizer created using:  
 * ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model.
 * React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React.
@@ -15,3 +17,6 @@ Features:
 * Download the resulting t-shirt model image.
 * Ensure responsiveness across all devices and improve your site's performance.
 
+![Landing Page](./assets/main_page.png)
+
+![Customizer](./assets/customizer.png)  
