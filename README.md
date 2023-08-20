@@ -3,19 +3,13 @@
 
 [Live Website](https://utkarsh-3d-shirt-customizer.netlify.app/)
 
-3D Shirt Customizer created using:  
-* ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model.
-* React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React.
-* TailwindCSS - a popular utility-first CSS styling framework.
-* Framer Motion - the most popular library used to bring your React website to life with animations.
+The innovative 3D Shirt Customizer offers an immersive experience, utilizing cutting-edge technologies for an unparalleled virtual product customization. Developed with ThreeJS, it harnesses the capabilities of a powerful 3D graphics library to render and animate intricate 3D models. React Three Fiber enriches the environment by seamlessly integrating ThreeJS within React, resulting in stunning 3D graphics. TailwindCSS empowers the project with a streamlined and responsive design framework, while Framer Motion enhances the user experience through captivating animations.
 
-Features:  
-* Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-* Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-* Add custom color and file support.
-* Generate and use images through DALLE AI.
-* Download the resulting t-shirt model image.
-* Ensure responsiveness across all devices and improve your site's performance.
+This application facilitates loading, creation and customization of visually appealing 3D models, complete with dynamic lighting and precise camera positioning. By incorporating Higher Order Components (HOCs) and industry-standard practices, the codebase ensures reusability and scalability. The capability to introduce custom colors and file formats adds a personalized touch to the experience.
+
+Leveraging DALLE AI, the application generates and integrates images, enriching the customization process. Users can conveniently download the resulting t-shirt model image, ensuring a tangible outcome of their customization efforts. Furthermore, the application is meticulously designed for responsive performance across various devices, guaranteeing an optimal experience for all users.
+
+In summary, the 3D Shirt Customizer seamlessly blends the capabilities of ThreeJS, React Three Fiber, TailwindCSS and Framer Motion to deliver an engaging and dynamic platform. It empowers users to create, customize, and visualize 3D models with unprecedented realism, making virtual product customization an interactive and visually captivating endeavor.
 
 ![Landing Page](./assets/main_page.png)
 
